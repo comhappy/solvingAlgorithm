@@ -8,19 +8,18 @@
 
 각 코딩테스트 플랫폼의 이름으로 디렉토리를 분류하여 문제 소스 코드를 관리합니다.
 
-.
-├── Baekjoon
-│   ├── Gold
-│   ├── Silver
-│   │   └── 1000.cpp
-│   └── Bronze
-├── Programmers
-│   ├── Level_1
-│   │   └── 완주하지 못한 선수.cpp
-│   └── Level_2
-└── SWEA
-└── D1
-└── 2072.cpp
+- **Baekjoon**
+  - Gold
+  - Silver
+    - `1000.cpp`
+  - Bronze
+- **Programmers**
+  - Level_1
+    - `완주하지 못한 선수.cpp`
+  - Level_2
+- **SWEA**
+  - D1
+    - `2072.cpp`
 
 
 - **Baekjoon**: 백준 온라인 저지(BOJ) 문제 풀이 코드
